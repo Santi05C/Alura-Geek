@@ -1,14 +1,8 @@
 # E-commerce Alura Geek
 
-<div align="center">
-  
-  ![alura geek](img src ="../Alura-Geek/assets/img/Presentación.png")
-
-</div>
-
 _Este repositorio fue creado como solución al Challengue Frontend #2 propuesto por el curso de Frontend de Alura Latam_
 
-[Puedes probarlo aqui!](https://julian-alura-geek.netlify.app)
+[Puedes probarlo aqui!](https://santi05c.github.io/Alura-Geek/)
 
 ## Secciones
 
@@ -21,7 +15,7 @@ _Este repositorio fue creado como solución al Challengue Frontend #2 propuesto 
 - Editar productos
 - Eliminar productos
 
-## Construido con 🛠️
+## Construido con ⚙️
 
 - Html
 - Css (Grid y Flexbox)
@@ -38,5 +32,5 @@ _Este repositorio fue creado como solución al Challengue Frontend #2 propuesto 
   
   ![giphy](https://user-images.githubusercontent.com/42880872/156003638-cb5322ae-3406-48c6-ba64-c8def9ed4876.gif)
   
-  ⌨️ con ❤️ por [Cabrera Santiago]https://github.com/Santi05C 😊
+  ⌨️ con ❤️‍🔥 por [Cabrera Santiago]https://github.com/Santi05C 😎
 </div>
